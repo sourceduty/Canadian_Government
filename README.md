@@ -14,6 +14,8 @@ Moreover, this GPT fosters constructive dialogue by presenting information respe
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Nepotism](https://github.com/sourceduty/Nepotism)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
